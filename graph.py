@@ -1,7 +1,7 @@
 # Myos Corp -- 2018
 #
 # This Project Just Show a Way to code Sin(), Cos(), and Exp()
-# Using Boork Taylor's work on polynomial functions
+# Using Brook Taylor's work on polynomial functions
 #
 # Created by Louis Lamalle and Quentin Dieppe
 #
